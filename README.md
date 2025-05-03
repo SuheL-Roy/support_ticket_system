@@ -35,7 +35,7 @@ Design a lightweight Support Ticket System for a startup.The system should allow
     ```
 9.  **Serve the application:**
     ```bash
-    http://localhost/task
+    http://localhost/(your project folder)
     ```
 10.  **Admin Login Credentials:**
     Admin Email: admin@gmail.com
