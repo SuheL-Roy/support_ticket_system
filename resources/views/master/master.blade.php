@@ -48,10 +48,10 @@
     </div>
     <!-- [ Pre-loader ] End -->
     <!-- [ Sidebar Menu ] start -->
-    @include('sidebar\sidebar')
+    @include('sidebar.sidebar')
     <!-- [ Sidebar Menu ] end -->
     <!-- [ Header Topbar ] start -->
-    @include('header\header')
+    @include('header.header')
     <!-- [ Header ] end -->
 
 
@@ -62,7 +62,7 @@
 
     <!-- [ Main Content ] end -->
     <!-- [ Footer Content ] start -->
-    @include('footer\footer')
+    @include('footer.footer')
     <!-- [ Footer Content ] end -->
 
     <div class="offcanvas border-0 pct-offcanvas offcanvas-end" tabindex="-1" id="offcanvas_pc_layout">
