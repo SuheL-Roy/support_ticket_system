@@ -41,7 +41,7 @@ Design a lightweight Support Ticket System for a startup.The system should allow
     Admin Email: admin@gmail.com
     Password: 12345678
 11.  **customer Login Credentials:**
-    custom Email: customer@gmail.com
+    Customer Email: customer@gmail.com
     Password: 12345678
 
 ## Accessing the Application
