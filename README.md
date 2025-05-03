@@ -37,11 +37,11 @@ Design a lightweight Support Ticket System for a startup.The system should allow
     ```bash
     http://localhost/task
     ```
-10.  **Login Credentials:**
+10.  **Admin Login Credentials:**
     Admin Email: admin@gmail.com
     Password: 12345678
-
-    Admin Email: customer@gmail.com
+11.  **customer Login Credentials:**
+    custom Email: customer@gmail.com
     Password: 12345678
 
 ## Accessing the Application
