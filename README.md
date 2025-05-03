@@ -48,13 +48,12 @@ Design a lightweight Support Ticket System for a startup.The system should allow
 
 * **Admin Users:** Admin users can log in through the `/login` page using their credentials.
     Upon successful login, they are redirected to the Admin Panel where they can manage All Ticket (create Ticket,Update Ticket Status).
-* **Customer Registration:** If a user does not have an account yet, they can visit the /register page to create one.
-After registering and logging in, they will gain access to the Customer Panel, where they can:
+* **Customer Registration:** If a user does not have an account yet, they can visit the `/register` page to    create one.After registering and logging in, they will gain access to the Customer Panel, where they can:
 
-View their own Ticket List
+     View their own Ticket List
 
-Create new tickets
+     Create new tickets
 
-Track the history of their submitted tickets
+     Track the history of their submitted tickets
 
-Check the current status of each ticket.
+     Check the current status of each ticket.
